@@ -1,0 +1,4 @@
+a123@MacBook-Pro-123 ~ %  source /Users/a123/password_manager/.venv/bin/activate
+(.venv) a123@MacBook-Pro-123 ~ % /Users/a123/password_manager/.venv/bin/python /Users/a123/Documents
+/ZeroCoding/DZ_VPa03/main.py
+Hello world
