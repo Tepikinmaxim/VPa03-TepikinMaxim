@@ -23,3 +23,9 @@ env/
 tmp/
 temp/
 EOF
+.DS_Store
+*/.DS_Store
+.Trash/
+.antigravity/
+.claude/
+.copilot/
